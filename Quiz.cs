@@ -9,19 +9,11 @@ using System.Windows.Forms;
 
 namespace Enviormental_Issues_Quiz_Program
 {
-    public partial class QuizProgram : Form
+    public partial class Quiz : Form
     {
-        public static int[] question;
-        public static int score;
-        
-        public QuizProgram()
+        public Quiz()
         {
             InitializeComponent();
-        }
-
-        private void QuizProgram_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
