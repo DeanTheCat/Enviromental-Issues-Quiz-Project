@@ -11,9 +11,16 @@ namespace Enviormental_Issues_Quiz_Program
 {
     public partial class Quiz : Form
     {
+        QuestionSelection qs = new QuestionSelection();
+        
         public Quiz()
         {
             InitializeComponent();
+        }
+
+        private void Quiz_Load(object sender, EventArgs e)
+        {
+            QuizProgram.question = qs.selectQuestions();
         }
     }
 }

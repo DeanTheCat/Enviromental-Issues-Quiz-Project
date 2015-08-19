@@ -218,6 +218,7 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Quiz";
             this.Text = "Quiz";
+            this.Load += new System.EventHandler(this.Quiz_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

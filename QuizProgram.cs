@@ -21,7 +21,7 @@ namespace Enviormental_Issues_Quiz_Program
 
         private void QuizProgram_Load(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
