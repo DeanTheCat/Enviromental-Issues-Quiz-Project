@@ -22,16 +22,5 @@ namespace Enviormental_Issues_Quiz_Program.Properties {
                 return defaultInstance;
             }
         }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.\\SQLEXPRESS;AttachDbFilename=|DataDirectory|\\Questions.mdf;Integrate" +
-            "d Security=True;Connect Timeout=30;User Instance=True")]
-        public string DBConn {
-            get {
-                return ((string)(this["DBConn"]));
-            }
-        }
     }
 }
