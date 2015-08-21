@@ -50,6 +50,7 @@
             this.btn_quizTake.TabIndex = 1;
             this.btn_quizTake.Text = "Take the Quiz";
             this.btn_quizTake.UseVisualStyleBackColor = true;
+            this.btn_quizTake.Click += new System.EventHandler(this.btn_quizTake_Click);
             // 
             // QuizProgram
             // 

@@ -1,1 +1,10 @@
 C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\bin\Debug\Enviormental_Issues_Quiz_Program.exe.config
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\bin\Debug\Enviormental_Issues_Quiz_Program.exe
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\bin\Debug\Enviormental_Issues_Quiz_Program.pdb
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\obj\x86\Debug\Enviormental_Issues_Quiz_Program.csprojResolveAssemblyReference.cache
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\obj\x86\Debug\Enviormental_Issues_Quiz_Program.Quiz.resources
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\obj\x86\Debug\Enviormental_Issues_Quiz_Program.QuizProgram.resources
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\obj\x86\Debug\Enviormental_Issues_Quiz_Program.Properties.Resources.resources
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\obj\x86\Debug\Enviormental_Issues_Quiz_Program.csproj.GenerateResource.Cache
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\obj\x86\Debug\Enviormental_Issues_Quiz_Program.exe
+C:\Users\Dean\Desktop\Poly Related\ITS104\Enviormental_Issues_Quiz_Program\Enviormental_Issues_Quiz_Program\obj\x86\Debug\Enviormental_Issues_Quiz_Program.pdb

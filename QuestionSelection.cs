@@ -134,7 +134,7 @@ namespace Enviormental_Issues_Quiz_Program
                     question[5] = "4";
                     break;
                 case 12:
-                    question[0] = "One of the main arguments of develping countries is that, even if thei total greenhouse gas emissions are increasing, ther emissions per capita are still much lower than those of richer countries. Pick the correct statement:";
+                    question[0] = "One of the main arguments of develping countries is that, even if their total greenhouse gas emissions are increasing, ther emissions per capita are still much lower than those of richer countries. Pick the correct statement:";
                     question[1] = "The average Nigerian emits 10x less then the average Italian";
                     question[2] = "The average US American emits 13x more than the average Indian";
                     question[3] = "The average Japanese emits more then the average German";
